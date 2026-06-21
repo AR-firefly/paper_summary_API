@@ -44,3 +44,12 @@ cp api/prompt.py api/prompt.py  # 或手动创建
 
 - PyPDF2：PDF 文本提取
 - openai：大模型 API 调用
+
+## 许可
+本仓库采用 [CC BY-NC 4.0](LICENSE) 协议。
+  - **非商业使用：** 欢迎自由使用、修改、分享。
+  - **商业使用：** 如需商用请联系作者（QQ：2171824923@qq.com）。
+
+## 作者
+
+AR-26710
